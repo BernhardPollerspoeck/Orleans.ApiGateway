@@ -9,8 +9,8 @@
     <Title>Orleans.ApiGateway</Title>
     <Authors>Bernhard Pollerspöck</Authors>
     <Company>qsp</Company>
-    <Copyright>https://github.com/BernhardPollerspoeck/Orleans-Iterator/blob/master/LICENSE.txt</Copyright>
-    <PackageProjectUrl>https://github.com/BernhardPollerspoeck/Orleans-Iterator</PackageProjectUrl>
+    <Copyright>https://github.com/BernhardPollerspoeck/Orleans.ApiGateway/blob/master/LICENSE.txt</Copyright>
+    <PackageProjectUrl>https://github.com/BernhardPollerspoeck/Orleans.ApiGateway</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
