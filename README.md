@@ -1,4 +1,4 @@
-# Orleans HTTP Extensions
+# Orleans ApiGateway
 
 This repository contains extensions for integrating Orleans with ASP.NET Core endpoints. These extensions allow you to easily map Orleans grains to HTTP routes, making it seamless to expose Orleans functionality over HTTP.
 
