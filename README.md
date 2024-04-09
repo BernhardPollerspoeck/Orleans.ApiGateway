@@ -7,7 +7,7 @@ This repository contains extensions for integrating Orleans with ASP.NET Core en
 
 To use these extensions in your ASP.NET Core application, simply install the `Orleans.ApiGateway` package from NuGet:
 ```bash
-dotnet add package Orleans.Http
+dotnet add package Orleans.ApiGateway
 ```
 
 
