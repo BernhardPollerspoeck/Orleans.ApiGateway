@@ -27,6 +27,8 @@ app.MapOrleans<IIotGrain, DeviceCommandDto, CommandExecutionResponseDto>(
 ```
 In this example, IIotGrain represents your Orleans grain interface. You can specify the HTTP method (EHttpMethod), the route path, and the grain method to invoke for handling the HTTP request.
 
+A client now can use the '***grainKey***' header to specify a grain key in string format. Optionally the '***grainType***' header can be used to create a grainId with a specified type.
+
 ## Contributing
 
 Contributions to this repository are welcome. Feel free to open issues or pull requests for any improvements or fixes.
